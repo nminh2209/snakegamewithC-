@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|d:\\download\\uni\\cos20007\\snakegame-main\\snakegame-main\\customsnake\\customsnake\\snakegamefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\snakegamefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\customsnake\\snakegamefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\snakegamefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\customsnake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\customsnake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\customsnake\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\customsnake\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\customsnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\customsnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\customsnake\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\customsnake\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\customsnake\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\customsnake\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{7672C1C0-0BF2-4DE1-9DA3-864B082E2627}|CustomSnake\\CustomSnake.csproj|solutionrelative:customsnake\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Form1.resx",
+              "RelativeDocumentMoniker": "CustomSnake\\Form1.resx",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Form1.resx",
+              "RelativeToolTip": "CustomSnake\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-08T04:03:05.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CustomSnake\\Form1.Designer.cs",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Form1.Designer.cs",
+              "RelativeToolTip": "CustomSnake\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:03:01.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "CustomSnake\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "CustomSnake\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:55:34.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Program.cs",
+              "RelativeDocumentMoniker": "CustomSnake\\Program.cs",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Program.cs",
+              "RelativeToolTip": "CustomSnake\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:47:35.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "CustomSnake\\Properties\\Settings.settings",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Properties\\Settings.settings",
+              "RelativeToolTip": "CustomSnake\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-08-07T13:45:07.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "CustomSnake\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Properties\\Resources.resx",
+              "RelativeToolTip": "CustomSnake\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-07T13:45:06.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CustomSnake\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CustomSnake\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:45:02.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Form1.cs",
+              "RelativeDocumentMoniker": "CustomSnake\\Form1.cs",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Form1.cs",
+              "RelativeToolTip": "CustomSnake\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:03:17.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "snakeGameFile.cs",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\snakeGameFile.cs",
+              "RelativeDocumentMoniker": "CustomSnake\\snakeGameFile.cs",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\snakeGameFile.cs",
+              "RelativeToolTip": "CustomSnake\\snakeGameFile.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAIwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:02:44.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "snakeGameFile.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\snakeGameFile.cs",
+              "RelativeDocumentMoniker": "CustomSnake\\snakeGameFile.cs",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\snakeGameFile.cs [Design]",
+              "RelativeToolTip": "CustomSnake\\snakeGameFile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:03:04.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\App.config",
+              "RelativeDocumentMoniker": "CustomSnake\\App.config",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\App.config",
+              "RelativeToolTip": "CustomSnake\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-04T15:50:45.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Form1.cs",
+              "RelativeDocumentMoniker": "CustomSnake\\Form1.cs",
+              "ToolTip": "D:\\Download\\Uni\\COS20007\\SnakeGame-main\\SnakeGame-main\\CustomSnake\\CustomSnake\\Form1.cs [Design]",
+              "RelativeToolTip": "CustomSnake\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:50:43.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
